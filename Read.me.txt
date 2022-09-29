@@ -1,0 +1,8 @@
+Assignment # 1 
+Spencer Bachynski
+Cs 408 
+sept 29, 2022
+
+In this file I used unity editor to achieve the graphics done and was unable to get the commands working properly. 
+I use a grey texture to be able to see how well the particle effect is shown. 
+A simple particle system that was made in untiy engine. 
